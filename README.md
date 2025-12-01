@@ -22,7 +22,7 @@ This repository hosts the design and documentation for a mobile/web app created 
 ## Design Prototype
 
 The initial UI/UX was created in Canva:  
-> (Paste your Canva share/view link here)
+> (https://www.canva.com/design/DAGztTFIPh4/5GTseqcDnNS71idgRu2cSg/view?utm_content=DAGztTFIPh4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7cd7695239)
 
 ## How to Run
 
